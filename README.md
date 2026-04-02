@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Imane+Khadri" />
+</p>
 # Imane Khadri
 
 Étudiante en Licence Informatique  
