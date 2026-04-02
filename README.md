@@ -1,55 +1,64 @@
-# 👩‍💻 Imane Khadri
+# Imane Khadri
 
-🎓 Étudiante en MIP (Mathématiques, Informatique, Physique)  
-📍 Maroc  
-🏢 Stage : Agence du Bassin Hydraulique de Béni Mellal  
-📌 Projet : Gestion des demandes de stage  
-
----
-
-## 🚀 À propos de moi
-Passionnée par le développement web et les systèmes d’information,  
-je travaille actuellement sur la conception et la réalisation d’une application web pour la gestion des demandes de stage.
+Étudiante en Licence Informatique  
+Casablanca Maroc  
+Stage : Agence du Bassin Hydraulique de Béni Mellal  
+Projet principal : Gestion des demandes de stage  
 
 ---
 
-## 🛠️ Compétences Techniques
+## À propos
+Je suis une étudiante en informatique intéressée par le développement web, les bases de données et les systèmes d’information.  
+Je travaille actuellement sur la conception et le développement d’applications de gestion.
 
-### 💻 Développement Web
-- HTML / CSS  
+---
+
+## Compétences
+
+### Développement
+- HTML  
+- CSS  
 - PHP  
 - Java JEE  
 
-### 🗄️ Bases de données
+### Bases de données
 - MySQL  
 - Oracle  
+- SQL  
+- PL/SQL  
+- T-SQL  
 
-### 📊 Conception & Modélisation
+### Conception & Modélisation
 - UML  
-- MCD (Modèle Conceptuel de Données)  
+- MCD  
 
-### 🌐 Réseaux Informatiques
-- Adressage IP  
-- VLSM  
-- VLAN  
-- Protocoles : HTTP, UDP  
+### Réseaux
+- IP  
+- HTTP  
+- UDP  
+- TCP  
+- DNS  
+- FTP  
 
-### ⚙️ Gestion de projet & outils
+### Gestion de projet & outils
 - Git / GitHub  
 - Diagramme de Gantt  
 
 ---
 
-## 📚 Projets
-🔹 Application Web : Gestion des demandes de stage  
-- Conception UML ✔️  
-- Développement en cours 🚧  
+## Projets
+
+### Gestion des demandes de stage
+- Conception UML  
+- Développement en cours  
+
+### Gestion d’un magasin de vente de voitures
+- Application de gestion des ventes, clients et stock  
+
+### Gestion d’un magasin de vêtements
+- Suivi des produits, commandes et clients  
 
 ---
 
-## 📫 Contact
-📧 Email : ton_email@example.com  
-
----
-
-⭐ Merci de visiter mon profil !
+## Contact
+Email : ton_email@example.com
