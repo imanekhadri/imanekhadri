@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👩‍💻 Imane Khadri
 
-<!--
-**imanekhadri/imanekhadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en MIP (Mathématiques, Informatique, Physique)  
+📍 Maroc  
+🏢 Stage : Agence du Bassin Hydraulique de Béni Mellal  
+📌 Projet : Gestion des demandes de stage  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+Passionnée par le développement web et les systèmes d’information,  
+je travaille actuellement sur la conception et la réalisation d’une application web pour la gestion des demandes de stage.
+
+---
+
+## 🛠️ Compétences Techniques
+
+### 💻 Développement Web
+- HTML / CSS  
+- PHP  
+- Java JEE  
+
+### 🗄️ Bases de données
+- MySQL  
+- Oracle  
+
+### 📊 Conception & Modélisation
+- UML  
+- MCD (Modèle Conceptuel de Données)  
+
+### 🌐 Réseaux Informatiques
+- Adressage IP  
+- VLSM  
+- VLAN  
+- Protocoles : HTTP, UDP  
+
+### ⚙️ Gestion de projet & outils
+- Git / GitHub  
+- Diagramme de Gantt  
+
+---
+
+## 📚 Projets
+🔹 Application Web : Gestion des demandes de stage  
+- Conception UML ✔️  
+- Développement en cours 🚧  
+
+---
+
+## 📫 Contact
+📧 Email : ton_email@example.com  
+
+---
+
+⭐ Merci de visiter mon profil !
